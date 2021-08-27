@@ -16,6 +16,5 @@ public class HelloGit {
 
         System.out.println("测试添加分支brand1");
         System.out.println("分支冲突测试--->brand分支");
-        System.out.println("分支冲突测试--->master分支");
     }
 }
