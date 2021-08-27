@@ -17,6 +17,6 @@ public class HelloGit {
         System.out.println("测试添加分支brand1");
         System.out.println("分支冲突测试--->master分支");
         System.out.println("分支冲突测试--->brand2分支");
-        System.out.println("在线更新！");
+        System.out.println("在线更新！----->gitee");
     }
 }
